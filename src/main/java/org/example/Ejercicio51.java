@@ -1,6 +1,6 @@
 package org.example;
 import java.util.Scanner;
-public class Ejercicio51 {
+public class  Ejercicio51 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[4];

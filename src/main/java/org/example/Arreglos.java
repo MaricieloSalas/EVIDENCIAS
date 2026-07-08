@@ -5,7 +5,7 @@ import java.util.Scanner;
 //tema de cambio//
 public class Arreglos {
     public void ejercicioOne(){
-        int suma =0;
+        int suma =0;//hola
         int number[]= new int[5];
         Scanner tecla = new Scanner(System.in);
         System.out.printf("Numero 1: ");
