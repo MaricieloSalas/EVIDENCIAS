@@ -2,6 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
+//tema de cambio//
 public class Arreglos {
     public void ejercicioOne(){
         int suma =0;
